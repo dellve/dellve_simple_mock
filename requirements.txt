@@ -1,0 +1,7 @@
+Flask==0.11.1
+cf-deployment-tracker==1.0.2
+pytest-flask==0.10.0
+coverage==4.1
+pytest==2.9.2
+pytest-cov==2.3.0
+Flask-Testing>=0.6.2
