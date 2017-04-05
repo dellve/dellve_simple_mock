@@ -16,7 +16,7 @@ Author: Abigail Johnson
 
 ## 2.0 Installation (Local)
 ```
-git clone https://github.com/dellve/dellve-simple-mock  
+git clone https://github.com/dellve/dellve_simple_mock  
 cd dellve-simple-mock
 pip3 install -r requirements.txt  
 python3 dellve-mock.py
